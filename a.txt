@@ -1,2 +1,3 @@
 it is the first line.
-then the second line
+then the second line.
+this is the thirline.
